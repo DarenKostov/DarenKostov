@@ -1,4 +1,4 @@
-## The repositories that are here are projects that I either worked on with someone or was assigned to work on by a teacher.
+## If one wants to get access to project repositories that I either worked on with them or was assigned to work on by them, contact me.
 
 ---
 Simple and easy tools to use instead of the less-workable defaults:
